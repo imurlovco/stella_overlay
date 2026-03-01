@@ -1,0 +1,10 @@
+{
+    "character": "치토세",
+    "potentials": [
+        {
+            "name": "등사 파도",
+            "tier": "main",
+            "select": "none"
+        }
+    ]
+}
